@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, My name is Alex <br>⚡ Interested in development and cool Tech <br>🌱 I’m currently learning web dev with Python and JavaScript <br>💬  Do connect with me on LinkedIn or Email. <br>
+🔭 Hi, My name is Alex <br>⚡ Interested in Solving Problems and Building stuff <br>🌱 I’m currently learning web dev with Python and JavaScript <br>💬  Do connect with me on LinkedIn or Email. <br>
 
 
 ## 🌐 Socials:
