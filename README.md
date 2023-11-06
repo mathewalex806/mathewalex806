@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey, I'm Alex—a tech enthusiast and avid developer on a perpetual quest for knowledge and innovation. Whether it's writing code, or building things that tickle my fancy, I find joy in the journey of creation.<br>Currently I'm exploring Machine Learing with Python 🔍<br>💻 If you share a passion for tech, coding, or just a good conversation, let's connect!  Drop me a message on Gmail or connect with me on LinkedIn. I'm always up for a chat and eager to collaborate on the next big thing. <br>Cheers to coding adventures! 🚀✨
+Hey, I'm Alex—a tech enthusiast and avid developer on a perpetual quest for knowledge and innovation. Whether it's writing code, or building things that tickle my fancy, I find joy in the journey of creation.🚀 <br>Currently I'm exploring Machine Learing with Python 🔍<br>If you share a passion for tech, coding, or just a good conversation, let's connect!  Drop me a message on Gmail or connect with me on LinkedIn. I'm always up for a chat and eager to collaborate on the next big thing.💻  <br>Cheers to coding adventures! 🚀✨
 
 
 ## 🌐 Socials:
