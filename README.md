@@ -10,4 +10,4 @@ Hey, I'm Alex—a tech enthusiast and avid developer on a perpetual quest for kn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathewalex806&theme=dark&hide_border=true)<br/>
 
 
-[![GitHub stats](https://github-readme-stats-olcd.vercel.app/api?username=mathewalex806&show_icons=true&theme=dark&card_width=400&hide_title=true&hide_border=true)](https://github.com/mathewalex806)  [![Top Langs](https://github-readme-stats-olcd.vercel.app/api/top-langs/?username=mathewalex806&layout=compact&exclude_repo=mathewalex806.github.io&card_width=350&theme=dark&hide_border=true)](https://github.com/mathewalex806)
+[![GitHub stats](https://github-readme-stats-olcd.vercel.app/api?username=mathewalex806&show_icons=true&theme=dark&card_width=400&hide_title=true&hide_border=true)](https://github.com/mathewalex806)  [![Top Langs](![mathewalex806's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewalex806&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))](https://github.com/mathewalex806)
